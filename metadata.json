@@ -1,0 +1,6 @@
+{
+  "name": "Bicycle Navigation System",
+  "description": "An intelligent bicycle navigation system with real-time acoustic/voice command interface and terrain-optimized routing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
